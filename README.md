@@ -53,7 +53,7 @@ Při **aktualizaci hry přes Steam** (i po funkci **„Ověřit integritu soubor
 ### 🎯 Kompatibilita verzí
 Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `23146725`, otestováno na verzi hry `1.1.123.r`). Instalátor verzi zkontroluje:
 - **Sedí** → nainstaluje se bez varování.
-- **Nesedí** → zobrazí varování. Instalace na jinou verzi může hru **rozbít** (nemusí jít spustit, poškozené texty) a je pak čistě na tvoje riziko.
+- **Nesedí** → zobrazí varování. Instalace na jinou verzi může hru **rozbít** (nemusí jít spustit, poškozené texty) a je to pak čistě na tvoje riziko. Nejideálnější je počkat na novou verzi instalátoru na jinou novější verzi hry.
 
 ---
 
