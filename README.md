@@ -1,4 +1,4 @@
-# 🗞️ Čeština pro News Tower `1.1.123.r`
+# 🗞️ Čeština pro News Tower `1.1.155.r`
 
 Neoficiální fanouškovský **český překlad** hry [**News Tower**](https://store.steampowered.com/app/1649950/) (Sparrow Night).
 
