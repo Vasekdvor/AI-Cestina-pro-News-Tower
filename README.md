@@ -51,7 +51,7 @@ Instalací a používáním této češtiny **souhlasíš s následujícím**:
 Při **aktualizaci hry přes Steam** (i po funkci **„Ověřit integritu souborů hry"**) se přeložené soubory přepíšou původními a **čeština zmizí**. Po každé aktualizaci prostě **spusť instalátor znovu**.
 
 ### 🎯 Kompatibilita verzí
-Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `23146725`, otestováno na verzi hry `1.1.123.r`). Instalátor verzi zkontroluje:
+Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `24610157`, otestováno na verzi hry `1.1.165.r`). Instalátor verzi zkontroluje:
 - **Sedí** → nainstaluje se bez varování.
 - **Nesedí** → zobrazí varování. Instalace na jinou verzi může hru **rozbít** (nemusí jít spustit, poškozené texty) a je to pak čistě na tvoje riziko. Nejideálnější je počkat na novou verzi instalátoru na jinou novější verzi hry.
 
