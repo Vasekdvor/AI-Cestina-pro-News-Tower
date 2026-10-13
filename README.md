@@ -49,6 +49,8 @@ Instalací a používáním této češtiny **souhlasíš s následujícím**:
 
 ### 🔄 Aktualizace hry
 Při **aktualizaci hry přes Steam** (i po funkci **„Ověřit integritu souborů hry"**) se přeložené soubory přepíšou původními a **čeština zmizí**. Po každé aktualizaci prostě **spusť instalátor znovu**.
+Pokud po aktualizaci hry hra nenaběhne (např.: vyskočí pouze logo Sparrow Night a dále je pouze černá obrazovka) - proveď odinstalaci češtiny a dej „Ověřit integritu souborů hry" v aplikaci Steam, poté nainstaluj 
+aktualizovanou češtinu.
 
 ### 🎯 Kompatibilita verzí
 Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `25680132`, otestováno na verzi hry `1.2.0.r`). Instalátor verzi zkontroluje:
