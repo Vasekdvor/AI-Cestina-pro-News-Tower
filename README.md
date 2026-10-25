@@ -1,4 +1,4 @@
-# 🗞️ Čeština pro News Tower `1.2.0.r`
+# 🗞️ Čeština pro News Tower `1.2.11.r`
 
 Neoficiální fanouškovský **český překlad** hry [**News Tower**](https://store.steampowered.com/app/1649950/) (Sparrow Night).
 
@@ -53,7 +53,7 @@ Pokud po aktualizaci hry hra nenaběhne (např.: vyskočí pouze logo Sparrow Ni
 aktualizovanou češtinu.
 
 ### 🎯 Kompatibilita verzí
-Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `25680132`, otestováno na verzi hry `1.2.0.r`). Instalátor verzi zkontroluje:
+Tato čeština byla vytvořena pro **konkrétní verzi hry** (Steam build `26082946`, otestováno na verzi hry `1.2.11.r`). Instalátor verzi zkontroluje:
 - **Sedí** → nainstaluje se bez varování.
 - **Nesedí** → zobrazí varování. Instalace na jinou verzi může hru **rozbít** (nemusí jít spustit, poškozené texty) a je to pak čistě na tvoje riziko. Nejideálnější je počkat na novou verzi instalátoru na jinou novější verzi hry.
 
